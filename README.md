@@ -15,35 +15,35 @@ This module covers **file handling, web data extraction, JSON/API processing, an
 
 | Section | Description |
 |---------|-------------|
-| 10.1 | Introduction |
-| 10.2 | Reading from a file |
-| 10.3 | Writing to a file |
-| 10.4 | HDF5 format |
-| 10.5 | Reading & writing HDF5 (practical) |
-| 10.6 | 📋 Jupyter Notebook: Files |
-| 10.7 | Reading from web pages |
-| 10.8 | Reading JSON and APIs |
-| 10.9 | What is an API? |
-| 10.10 | What is JSON? |
-| 10.11 | Web/JSON/API practical exercise |
-| 10.12 | 📋 Jupyter Notebook: Web & JSON |
-| 10.13 | Databases: Introduction |
-| 10.14 | SQL: Introduction |
-| 10.15 | 🔗 SQL lesson link |
-| 10.16 | Connecting to SQLite |
-| 10.17 | Reading table into DataFrame |
-| 10.18 | Sorting (ORDER BY) & DISTINCT |
-| 10.19 | Filtering (WHERE) |
-| 10.20 | 📋 Jupyter Notebook: SQLite |
-| 10.21 | Exporting DataFrame to SQL table |
-| 10.22 | Creating SQL table & inserting data |
-| 10.23 | Updating & deleting SQL table |
-| 10.24 | Writing SQL commands with f-strings |
-| 10.25 | Final practical exercise (module) |
-| 10.26 | 📋 Jupyter Notebook: SQLite Part 2 |
-| 10.27 | Useful SQL commands |
-| 10.28 | BETWEEN, IN & LIKE |
-| 10.29 | 📋 Jupyter Notebook: SQLite Part 3 |
+| Introduction | Overview of file handling and databases |
+| Reading from a file | Learn how to read data from files |
+| Writing to a file | Learn how to write data to files |
+| HDF5 format | Introduction to HDF5 data format |
+| Reading & writing HDF5 (practical) | Hands-on practice with HDF5 files |
+| 📋 Jupyter Notebook: Files | Notebook exercises for file handling |
+| Reading from web pages | Learn to extract data from web pages |
+| Reading JSON and APIs | Learn to read JSON and interact with APIs |
+| What is an API? | Explanation of API concepts |
+| What is JSON? | Explanation of JSON format |
+| Web/JSON/API practical exercise | Hands-on exercise using web, JSON, and API |
+| 📋 Jupyter Notebook: Web & JSON | Notebook exercises for web and JSON |
+| Databases: Introduction | Introduction to databases |
+| SQL: Introduction | Basics of SQL |
+| 🔗 SQL lesson link | Link to SQL lesson |
+| Connecting to SQLite | Connecting Python to SQLite database |
+| Reading table into DataFrame | Import SQL tables into Pandas DataFrame |
+| Sorting (ORDER BY) & DISTINCT | SQL sorting and removing duplicates |
+| Filtering (WHERE) | SQL filtering with WHERE clause |
+| 📋 Jupyter Notebook: SQLite | Notebook exercises for SQLite |
+| Exporting DataFrame to SQL table | Export Pandas DataFrame to SQL table |
+| Creating SQL table & inserting data | Create tables and insert data in SQL |
+| Updating & deleting SQL table | Update and delete SQL table entries |
+| Writing SQL commands with f-strings | Dynamic SQL commands with Python f-strings |
+| Final practical exercise (module) | Module-ending hands-on exercise |
+| 📋 Jupyter Notebook: SQLite Part 2 | Part 2 of SQLite notebook exercises |
+| Useful SQL commands | Important SQL commands summary |
+| BETWEEN, IN & LIKE | SQL advanced filtering examples |
+| 📋 Jupyter Notebook: SQLite Part 3 | Part 3 of SQLite notebook exercises |
 
 ---
 
@@ -73,6 +73,8 @@ This module covers **file handling, web data extraction, JSON/API processing, an
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=SQL+Advanced+Filtering;BETWEEN+IN+LIKE;Filter+data+effectively" alt="Typing SVG" />
 </p>
+
+<p align="center"> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" alt="SQL Animation"> </p>
 
 
 ```sql
