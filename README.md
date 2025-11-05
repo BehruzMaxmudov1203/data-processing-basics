@@ -69,13 +69,11 @@ This module covers **file handling, web data extraction, JSON/API processing, an
 
 ---
 
-## 📌 Example: SQL Advanced Filtering (10.28: BETWEEN, IN & LIKE)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=SQL+Advanced+Filtering;BETWEEN+IN+LIKE;Filter+data+effectively" alt="Typing SVG" />
 </p>
 
-<p align="center"> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" alt="SQL Animation"> </p>
 
 ```sql
 -- BETWEEN: select values within a range
